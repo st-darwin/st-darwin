@@ -117,13 +117,26 @@ I specialize in designing **scalable digital ecosystems** that prioritize perfor
 
 ---
 
-### 🎧 WORKSPACE CONFIGURATION
-- **IDE:** VS Code (**Pitch Black Dracula** Theme)
-- **Typography:** **Victor Mono** (Cursive Italics Enabled)
-- **Audio:** Regional Basslines & Deep-Focus Ambient
-- **Philosophy:** Stoic Minimalism
+---
 
-<br/>
+### 🖥️ SYSTEM ARCHITECTURE & ENVIRONMENT
+<p align="left">
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-00E5FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/THEME-Pitch%20Black%20Dracula-BD93F9?style=for-the-badge&logo=dracula&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FONT-Victor%20Mono-FF79C6?style=for-the-badge&labelColor=000000" />
+</p>
+
+```javascript
+const WORKSPACE = {
+    terminal: "ZSH / Oh-My-Zsh",
+    typography: "Victor Mono (Cursive Italics Enabled)",
+    aesthetic: "SaaS-Minimalism / Glassmorphism",
+    hardware: "Focused Indoor Dev Setup",
+    philosophy: "Stoic Engineering // Deep Work"
+};
+
+// Current Session Audio
+const PLAYLIST = ["Regional Basslines", "Deep Focus Ambient", "Tonic Solfa Transcriptions"];
 
 <p align="center">
   <a href="https://linkedin.com/in/uzoma-solomon-3291113a1">
