@@ -94,6 +94,24 @@ I engineer **high-availability digital ecosystems** at the intersection of perfo
 
 ---
 
+
+### 🛠️ THE ARSENAL (SYSTEM ARCHITECTURE)
+
+<table border="0">
+  <tr>
+    <td>
+      <b>⚡ CORE LOGIC</b><br/><br/><br/>
+      <b>🎨 VISUALS</b><br/><br/><br/>
+      <b>📡 INFRA</b>
+    </td>
+    <td>
+      ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)<br/>
+      ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)<br/>
+      ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    </td>
+  </tr>
+</table>
+
 ### 🛠️ THE ARSENAL (TECHNICAL MATRIX)
 
 **⚡ Core Engines & Logic**
