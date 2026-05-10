@@ -40,13 +40,49 @@ I engineer **high-availability digital ecosystems** at the intersection of perfo
 
 ---
 
-### 🚀 FEATURED ARCHITECTURES
-| Project | Role | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **NexaCV** | Lead Architect | React, TypeScript, AI Logic | `Deployed` |
-| **Nexa Travel** | Full-Stack Dev | React, Appwrite, GSAP | `In Development` |
-| **Expense Tracker**| Mobile Lead | React Native, Expo, Tailwind | `Stable` |
+---
 
+### 🚀 SYSTEM DEPLOYMENTS & ARCHITECTURES
+
+<table width="100%">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SYSTEM_01-NexaCV-00E5FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+      <p><b>Neural Resume Strategist</b><br/>
+      An ATS-optimization engine utilizing AI for high-integrity professional strategy. Built to bridge the gap between human experience and algorithmic filtering.</p>
+      <code>React</code> • <code>TypeScript</code> • <code>Neural Logic</code> • <code>Tailwind</code>
+    </td>
+    <td align="right" width="20%">
+      <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF00?style=flat-square&labelColor=000000" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SYSTEM_02-Nexa_Travel-3B82F6?style=for-the-badge&logo=appwrite&logoColor=white&labelColor=000000" />
+      <p><b>Interactive Travel Ecosystem</b><br/>
+      A high-end travel dashboard specializing in global map styling and advanced data persistence layers for seamless itinerary management.</p>
+      <code>Next.js</code> • <code>Appwrite</code> • <code>GSAP</code> • <code>Syncfusion</code>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/STATUS-SCALING-FFFF00?style=flat-square&labelColor=000000" />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/SYSTEM_03-Finance_Core-FF79C6?style=for-the-badge&logo=expo&logoColor=white&labelColor=000000" />
+      <p><b>Cross-Platform Finance Logic</b><br/>
+      Mobile-first architecture designed for granular expense tracking and real-time budget visualization with a minimalist UI.</p>
+      <code>React Native</code> • <code>Expo</code> • <code>Zustand</code> • <code>Tailwind</code>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/STATUS-STABLE-00E5FF?style=flat-square&labelColor=000000" />
+    </td>
+  </tr>
+</table>
+
+---
 ---
 
 ### 🛠️ THE ARSENAL (TECHNICAL MATRIX)
