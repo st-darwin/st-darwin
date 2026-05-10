@@ -6,7 +6,7 @@
 * 👋 **Status:** Full-Stack Developer & System Architect
 * 🏗️ **Core Logic:** React, TypeScript, & AI Strategy
 * 🤝 **Open Source:** Actively seeking collaboration on high-performance React/Native systems
-* 📧 **Comms:** [uzomasolomon479@gmail.com](mailto:uzomasolomon479@gmail.com)
+* 📧 **Comms:** [uzomasolomon479@gmail.com](mailto:uzomasolomon289@gmail.com)
 * 🏳️ **Pronouns:** He/Him
 * 💻 **Fun Fact:** I once spent 4 hours optimizing a single component just to shave 20ms off the render time.
 
