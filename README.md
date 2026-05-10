@@ -1,4 +1,3 @@
-<div align="center">
 
 ---
 
@@ -11,6 +10,8 @@
 * 💻 **Fun Fact:** I once spent 4 hours optimizing a single component just to shave 20ms off the render time.
 
 ---
+<div align="center">
+
 
 # ⚡ SYSTEM ARCHITECT: ST DARWIN 🚀
 **Software Engineer | AI strategist | Minimalist UI Architect**
