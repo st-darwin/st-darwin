@@ -29,13 +29,14 @@
 
 ---
 
-### 🧬 ARCHITECTURAL MANIFESTO
-I specialize in designing **scalable digital ecosystems** that prioritize performance and user intuition. Based in Nigeria, my development philosophy is built on **Stoic Engineering principles**: writing resilient code that survives complexity. My aesthetic is defined by **SaaS-Minimalism**, glassmorphism, and high-contrast, distraction-free environments.
 
-- 🖥️ **Engineering Focus:** Interactive Dashboards, Neural Analysis Engines, & Mobile Ecosystems.
-- 🏗️ **Current Mission:** Scaling the **Nexa Travel** ecosystem with advanced data persistence.
-- 🧠 **Neural Logic:** Creator of **NexaCV**, an AI-powered strategist for ATS optimization.
-- 🧘 **Workflow:** Deep work blocks, WakaTime-monitored sessions, and a "1% better every day" mindset.
+### 🧬 THE ARCHITECTURAL MANIFESTO
+I engineer **high-availability digital ecosystems** at the intersection of performance and human-centric design. My practice is rooted in **Stoic Engineering**—a commitment to technical resilience, where code is stripped of redundancy and built to survive complexity. I specialize in the **SaaS-Minimalist** aesthetic, utilizing glassmorphism and high-contrast environments to create focus-driven interfaces.
+
+* **🖥️ System Engineering:** Architecting real-time dashboards, neural analysis engines, and cross-platform mobile ecosystems with a focus on low-latency state management.
+* **🏗️ Infrastructure Mission:** Scaling the **Nexa Travel** ecosystem, implementing advanced data persistence layers and modular component architectures.
+* **🧠 Neural Strategy:** Author of **NexaCV**, an AI-driven strategist designed to bridge the gap between human experience and ATS algorithmic logic.
+* **⚖️ The Discipline:** Deep work as a standard. I operate in 0-distraction indoor environments, maintaining a 1% daily iteration cycle tracked via granular WakaTime metrics.
 
 ---
 
