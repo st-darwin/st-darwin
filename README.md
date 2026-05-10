@@ -1,47 +1,41 @@
-# Hi, I'm Uzoma Solomon Tochukwu 👋 
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-React%20%26%20TypeScript-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Powered%20Software-000000?style=for-the-badge&logo=openai" />
-</p>
-
-### 🛠️ The Stack
-> **"Code speaks louder than words."** | Category | Tech Stack |
-| :--- | :--- |
-| **Frontend** | React, Vite, Next.js, TypeScript |
-| **Mobile** | React Native, Expo |
-| **Styling** | Tailwind CSS, GSAP (Animations), Framer Motion |
-| **Backend** | Appwrite, Node.js |
+# ⚡ Uzoma Solomon Tochukwu
+**Full-Stack Developer | React & TypeScript Specialist | AI Architect**
 
 ---
 
-### 🚀 Recent Milestones
-* **NexaCV**: Shipped a stable, ATS-optimized resume analysis platform with neural logic.
-* **Daily Routine**: Maintaining a consistent commit streak and focusing on high-performance architectures.
-* **Next Up**: Interactive data visualizations and complex dashboard systems.
+### 🛠️ The Tech Arsenal
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=Appwrite&logoColor=white)
 
 ---
 
-### 📊 Performance Metrics
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=000000&title_color=3b82f6&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=000000&title_color=3b82f6&text_color=ffffff" />
-</p>
+### 📊 Performance & Discipline
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=000000&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Commit Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff" height="170" />
 
 ---
 
-### 🎵 Beyond the Terminal
-* **Bassist:** Transcribing regional basslines in C Major.
-* **Stoic Learner:** Practicing deep work and focused execution.
-* **Environment:** Coding in **Victor Mono** (Italics) on **Pitch Black Dracula**.
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&background=000000&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
-</p>
+### 🧬 Current Focus
+**NexaCV** (Stable/Launched) • **Interactive Dashboards** (In Dev) • **Deep Work** (Daily)
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+### 🎧 Terminal Vibes
+**Editor:** VS Code + Victor Mono (Cursive Italics) + Pitch Black Dracula  
+**Hobbies:** Bassist (Regional Solfas) • Stoic Philosophy
+
+<br/>
+
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL) • [Portfolio](https://your-portfolio.com) • [Email](mailto:your-email@example.com)
+
+</div>
