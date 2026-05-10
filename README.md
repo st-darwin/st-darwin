@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Uzoma Solomon Tochukwu
+# ⚡ St Darwin
 **Software Architect | React & TypeScript Specialist | AI System Designer**
 
 *"Mastering the art of clean code through stoic discipline and deep work."*
