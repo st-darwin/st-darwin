@@ -1,92 +1,96 @@
 <div align="center">
 
-# ⚡ St Darwin
-**Software Architect | React & TypeScript Specialist | AI System Designer**
+# ⚡ SYSTEM ARCHITECT: ST DARWIN
+**Full-Stack Engineer | AI Strategist | Minimalist UI Designer**
 
-*"Mastering the art of clean code through stoic discipline and deep work."*
-
----
-
-### 🟢 The Pulse (Live Activity)
-<img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true&background=000000&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-darwin&theme=tokyonight&bg_color=000000&border_radius=5" width="100%" />
+*"Code is the medium. Logic is the law. Discipline is the way."*
 
 ---
 
-### 🧬 About Me
-I am a **Full-Stack Developer** based in Nigeria, dedicated to building high-performance, AI-driven applications with a **SaaS-minimalist** aesthetic. My workflow is built on the foundations of **Deep Work**—focused, undistracted execution that prioritizes scalable architecture over quick fixes.
+### 🌐 THE DASHBOARD (REAL-TIME METRICS)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-darwin&theme=tokyonight&bg_color=000000&border_radius=10" width="100%" />
+</p>
 
-- 🔭 **Current Mission:** Architecting complex, interactive data-visualization dashboards.
-- 🚀 **Latest Ship:** **NexaCV** — A neural-powered, ATS-optimized resume strategist.
-- ⚡ **Philosophy:** Stoic approach to debugging. I view every error as a masterclass in logic.
-- 🎧 **Off-Duty:** Playing the bass guitar and transcribing regional solfas in C Major.
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff&count_private=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true&background=000000&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ The Tech Arsenal (Expanded)
+### 🧬 THE ARCHITECT'S MANIFESTO
+I don't just write code; I design **scalable digital ecosystems**. Based in Nigeria, my practice is rooted in **Stoic Engineering**—the belief that the best code is simple, purposeful, and resilient. My work aesthetic favors **SaaS-Minimalism**, glassmorphism, and high-contrast environments.
 
-**Frontend Excellence**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-blue?style=for-the-badge)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- 🖥️ **Core Focus:** Building high-integrity Neural Engines and Interactive Dashboards.
+- 🏗️ **Current Build:** Revolutionizing travel data management with the **Nexa Travel** ecosystem.
+- 🧠 **Neural Logic:** Author of **NexaCV**, an ATS-optimization engine utilizing AI for professional strategy.
+- ⚖️ **Execution:** Deep work blocks, 1% daily iteration, and 0-distraction indoor environments.
 
-**UI/UX & Animation**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
+
+### 🛠️ THE ARSENAL (BY DOMAIN)
+
+**⚡ Core Engine & State**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+**🎨 UI, Motion & Visual Logic**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Lucide Icons](https://img.shields.io/badge/Lucide-pink?style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Mobile & Backend Infrastructure**
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=Appwrite&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+**📡 Infrastructure & Persistence**
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**DevOps & Tools**
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**🛠️ Systems & Quality Assurance**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TurboRepo](https://img.shields.io/badge/Turbo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
 ---
 
-### 🏆 Achievements
+### 🏆 SYSTEM RECOGNITION (TROPHIES)
 <img src="https://github-profile-trophy.vercel.app/?username=st-darwin&theme=dracula&no-bg=true&margin-w=15&column=5&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
 
 ---
 
-### 📊 Language Proficiency
+### 📊 LANGUAGE DOMINANCE
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff" width="100%" />
 
 ---
 
-### 🐍 Contribution Journey
+### 🐍 THE CONTRIBUTION SNAKE
 <img src="https://raw.githubusercontent.com/st-darwin/st-darwin/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 
 ---
 
-### 🎧 The Environment
-**Editor:** VS Code + **Victor Mono** (Cursive Italics)  
-**Theme:** Pitch Black Dracula  
-**Machine:** Focused Indoor Dev Setup  
+### 🎧 WORKSPACE CONFIGURATION
+- **IDE:** VS Code (Pitch Black Dracula Theme)
+- **Typography:** Victor Mono (Cursive Italics Enabled)
+- **Audio:** Regional Basslines & Deep-Focus Ambient
+- **Philosophy:** Stoic Minimalism
 
 <br/>
 
