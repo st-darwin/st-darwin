@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # ⚡ [ SYSTEM_CORE / ST_DARWIN ]
 **FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT**
