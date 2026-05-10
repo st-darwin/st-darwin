@@ -1,137 +1,75 @@
+<div align="center">
+
+# ⚡ [ SYSTEM_CORE / ST_DARWIN ]
+**FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT**
+
+*"Logic is the law. Discipline is the way."*
 
 ---
 
-### ⚡ QUICK_START.log
-* 👋 **Status:** Full-Stack Developer & System Architect
-* 🏗️ **Core Logic:** React, TypeScript, & AI Strategy
-* 🤝 **Open Source:** Actively seeking collaboration on high-performance React/Native systems
-* 📧 **Comms:** [uzomasolomon479@gmail.com](mailto:uzomasolomon289@gmail.com)
-* 🏳️ **Pronouns:** He/Him
-* 💻 **Fun Fact:** I once spent 4 hours optimizing a single component just to shave 20ms off the render time.
+### 🟢 INITIALIZING_SESSION...
+| **STATUS** | **LOCATION** | **FOCUS** | **PRONOUNS** |
+| :--- | :--- | :--- | :--- |
+| `ACTIVE_DEV` | `NIGERIA` | `SCALABLE_SYSTEMS` | `HE/HIM` |
 
 ---
-<div>
-
-
-# ⚡ SYSTEM ARCHITECT: ST DARWIN 🚀
-**Software Engineer | AI strategist | Minimalist UI Architect**
-
-*"Code is the medium. Logic is the law. Discipline is the way."*
-
----
-
-### 🌐 THE NEURAL INTERFACE (SYSTEM STATUS)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true&background=000000&stroke=00E5FF&ring=3B82F6&fire=FF4D00&currStreakLabel=ffffff" width="100%" alt="Commit Streak" />
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF&count_private=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-darwin&theme=tokyonight&bg_color=000000&border_radius=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true&background=00000000&stroke=00E5FF&ring=00E5FF&fire=00E5FF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="49%" />
 </p>
 
 ---
 
 ### 🧬 THE ARCHITECTURAL MANIFESTO
-I engineer **high-availability digital ecosystems** at the intersection of performance and human-centric design. My practice is rooted in **Stoic Engineering**—a commitment to technical resilience, where code is stripped of redundancy and built to survive complexity. I specialize in the **SaaS-Minimalist** aesthetic, utilizing glassmorphism and high-contrast environments to create focus-driven interfaces.
+> I engineer high-availability digital ecosystems where code is stripped of redundancy and built to survive complexity. Rooted in **Stoic Engineering**, my practice prioritizes low-latency state management and focus-driven interfaces.
 
-* **🖥️ System Engineering:** Architecting real-time dashboards, neural analysis engines, and cross-platform mobile ecosystems with a focus on low-latency state management.
-* **🏗️ Infrastructure Mission:** Scaling the **Nexa Travel** ecosystem, implementing advanced data persistence layers and modular component architectures.
-* **🧠 Neural Strategy:** Author of **NexaCV**, an AI-driven strategist designed to bridge the gap between human experience and ATS algorithmic logic.
-* **⚖️ The Discipline:** Deep work as a standard. I operate in 0-distraction indoor environments, maintaining a 1% daily iteration cycle tracked via granular WakaTime metrics.
+`[01]` **NexaCV Architect** — Bridging human experience and ATS logic through AI strategy.
+`[02]` **Nexa Travel Core** — Scaling modular architectures with advanced data persistence.
+`[03]` **Deep Work Protocol** — Operating in 0-distraction environments with 1% daily iteration.
 
 ---
 
-### 🚀 SYSTEM DEPLOYMENTS & ARCHITECTURES
+### 🚀 ACTIVE_DEPLOYMENTS
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/SYSTEM_01-NexaCV-00E5FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
-      <p><b>Neural Resume Strategist</b><br/>
-      An ATS-optimization engine utilizing AI for high-integrity professional strategy. Built to bridge the gap between human experience and algorithmic filtering.</p>
-      <code>React</code> • <code>TypeScript</code> • <code>Neural Logic</code> • <code>Tailwind</code>
+    <td width="33%" align="center">
+      <code>SYSTEM_01: NexaCV</code><br/>
+      <img src="https://img.shields.io/badge/STATUS-LIVE-00FF00?style=flat-square&labelColor=000000" /><br/>
+      <sub>AI Optimization Engine</sub>
     </td>
-    <td align="right" width="20%">
-      <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF00?style=flat-square&labelColor=000000" />
+    <td width="33%" align="center">
+      <code>SYSTEM_02: Nexa_Travel</code><br/>
+      <img src="https://img.shields.io/badge/STATUS-SCALING-00E5FF?style=flat-square&labelColor=000000" /><br/>
+      <sub>Global Map Ecosystem</sub>
     </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/SYSTEM_02-Nexa_Travel-3B82F6?style=for-the-badge&logo=appwrite&logoColor=white&labelColor=000000" />
-      <p><b>Interactive Travel Ecosystem</b><br/>
-      A high-end travel dashboard specializing in global map styling and advanced data persistence layers for seamless itinerary management.</p>
-      <code>Next.js</code> • <code>Appwrite</code> • <code>GSAP</code> • <code>Syncfusion</code>
-    </td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/STATUS-SCALING-FFFF00?style=flat-square&labelColor=000000" />
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/SYSTEM_03-Finance_Core-FF79C6?style=for-the-badge&logo=expo&logoColor=white&labelColor=000000" />
-      <p><b>Cross-Platform Finance Logic</b><br/>
-      Mobile-first architecture designed for granular expense tracking and real-time budget visualization with a minimalist UI.</p>
-      <code>React Native</code> • <code>Expo</code> • <code>Zustand</code> • <code>Tailwind</code>
-    </td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/STATUS-STABLE-00E5FF?style=flat-square&labelColor=000000" />
+    <td width="33%" align="center">
+      <code>SYSTEM_03: Finance_Core</code><br/>
+      <img src="https://img.shields.io/badge/STATUS-STABLE-BD93F9?style=flat-square&labelColor=000000" /><br/>
+      <sub>Cross-Platform Logic</sub>
     </td>
   </tr>
 </table>
 
 ---
 
+### 🛠️ TECHNICAL_STACK
 
-### 🛠️ THE ARSENAL (TECHNICAL MATRIX)
-
-**⚡ Core Engines & Logic**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-
-**🎨 Visual Systems & Motion**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**📡 Infrastructure & Quality**
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+| LAYER | TECHNOLOGIES |
+| :--- | :--- |
+| **CORE** | `React` • `TypeScript` • `Next.js` • `Zustand` • `React Query` |
+| **VISUAL** | `Tailwind` • `GSAP` • `Framer Motion` • `Shadcn/UI` • `Three.js` |
+| **INFRA** | `Appwrite` • `PostgreSQL` • `Docker` • `Prisma` • `Vite` |
 
 ---
 
-### 🏆 SYSTEM RECOGNITION (TROPHIES)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=st-darwin&theme=dracula&no-bg=true&margin-w=15&column=5&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
-</p>
-
----
-
-### 🐍 THE CONTRIBUTION SNAKE
-<img src="https://raw.githubusercontent.com/st-darwin/st-darwin/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
-
----
-
-### 🖥️ SYSTEM ARCHITECTURE & ENVIRONMENT
-<p align="left">
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-00E5FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/THEME-Pitch%20Black%20Dracula-BD93F9?style=for-the-badge&logo=dracula&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/FONT-Victor%20Mono-FF79C6?style=for-the-badge&labelColor=000000" />
-</p>
+### 🖥️ ENVIRONMENT_CONFIG
 
 ```javascript
-const WORKSPACE = {
-    terminal: "ZSH / Oh-My-Zsh",
-    typography: "Victor Mono (Cursive Italics Enabled)",
-    aesthetic: "SaaS-Minimalism / Glassmorphism",
-    hardware: "Focused Indoor Dev Setup",
-    philosophy: "Stoic Engineering // Deep Work"
-};
+{
+  "ide": "VS Code (Pitch Black Dracula)",
+  "font": "Victor Mono [Cursive Italics]",
+  "audio": "Deep Focus / Regional Basslines",
+  "philosophy": "Stoic Minimalism"
+}
