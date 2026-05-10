@@ -1,3 +1,8 @@
+
+
+
+<div align="center">
+
 ---
 
 ### ⚡ QUICK_START.log
@@ -9,9 +14,6 @@
 * 🎸 **Fun Fact:** I’m a bassist with a deep interest in regional solfa transcriptions.
 
 ---
-
-
-<div align="center">
 
 # ⚡ SYSTEM ARCHITECT: ST DARWIN 🚀
 **Software Engineer | AI strategist | Minimalist UI Architect**
