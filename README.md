@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SYSTEM ARCHITECT: ST DARWIN
+# ⚡ SYSTEM ARCHITECT: ST DARWIN 🚀
 **Software Engineer | AI strategist | Minimalist UI Architect**
 
 *"Code is the medium. Logic is the law. Discipline is the way."*
