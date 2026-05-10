@@ -5,13 +5,15 @@
 
 ---
 
-### ⚡ QUICK_START.log
+<div aligh="left">
+  ### ⚡ QUICK_START.log
 * 👋 **Status:** Full-Stack Developer & System Architect
 * 🏗️ **Core Logic:** React, TypeScript, & AI Strategy
 * 🤝 **Open Source:** Actively seeking collaboration on high-performance React/Native systems
 * 📧 **Comms:** [uzomasolomon479@gmail.com](mailto:uzomasolomon479@gmail.com)
 * 🏳️ **Pronouns:** He/Him
 * 🎸 **Fun Fact:** I’m a bassist with a deep interest in regional solfa transcriptions.
+</div>
 
 ---
 
