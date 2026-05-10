@@ -16,12 +16,12 @@
 ---
 
 ### 📊 Performance & Discipline
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=000000&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Commit Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true&background=000000&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Commit Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=st-dawin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=3B82F6&text_color=ffffff" height="170" />
 
 ---
 
@@ -36,6 +36,6 @@
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL) • [Portfolio](https://your-portfolio.com) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/uzoma-solomon-3291113a1) • [Portfolio](https://your-portfolio.com) • [Email](mailto:your-email@example.com)
 
 </div>
