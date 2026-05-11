@@ -70,7 +70,7 @@
 
 ```yaml
 stack:
-  core: [React, TypeScript, Next.js, Zustand, React Query]
+  core: [React, TypeScript, TailwindCss Next.js, Zustand, React Query]
   motion: [GSAP, Framer Motion, Three.js]
-  design: [Tailwind, Shadcn/UI, Radix UI]
-  infra: [Appwrite, PostgreSQL, Docker, Prisma, Vite]
+  design: [Tailwind, Shadcn/UI, Syncfusion Radix UI]
+  infra: [Appwrite, Supabase ,  PostgreSQL, Docker, Prisma, Vite]
