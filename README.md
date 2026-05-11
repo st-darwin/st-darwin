@@ -11,7 +11,7 @@
 <table width="100%">
   <tr>
     <td align="center"><b>STATUS</b><br/><code>Active 🚀</code></td>
-    <td align="center"><b>LOCATION</b><br/><code>NIGERIA</code></td>
+    <td align="center"><b>LOCATION</b><br/><code>Hostel</code></td>
     <td align="center"><b>FOCUS</b><br/><code>SCALABLE_SYSTEMS</code></td>
     <td align="center"><b>PRONOUNS</b><br/><code>lol</code></td>
   </tr>
