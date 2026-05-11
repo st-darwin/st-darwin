@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ THE_ARSENAL (TECH_STACK)
+### 🛠️ THE_ARSENAL (TECH_STACK) 🍃
 
 | CATEGORY | STACK |
 | :--- | :--- |
@@ -45,11 +45,7 @@
 
 ---
 
-### 📊 SYSTEM_ANALYTICS (MOST_USED_LANGUAGES)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="400" />
-</p>
 
 ### 🧬 THE ARCHITECTURAL MANIFESTO
 > I engineer high-availability digital ecosystems where code is stripped of redundancy and built to survive complexity. Rooted in **Stoic Engineering**, my practice prioritizes low-latency state management and focus-driven interfaces.
