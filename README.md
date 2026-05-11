@@ -33,6 +33,24 @@
 
 ---
 
+### 🛠️ THE_ARSENAL (TECH_STACK)
+
+| CATEGORY | STACK |
+| :--- | :--- |
+| **FRONTEND** | ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3) ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwind-css) |
+| **BACKEND** | ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Appwrite](https://img.shields.io/badge/-Appwrite-000?style=flat&logo=appwrite) ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma) |
+| **DATABASE** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql) ![Supabase](https://img.shields.io/badge/-Supabase-000?style=flat&logo=supabase) |
+| **TOOLS/AI** | ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel) ![Gemini](https://img.shields.io/badge/-Gemini-000?style=flat&logo=googlegemini) ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma) ![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman) |
+| **MOBILE/UI** | ![React Native](https://img.shields.io/badge/-React_Native-000?style=flat&logo=react) ![Expo](https://img.shields.io/badge/-Expo-000?style=flat&logo=expo) ![GSAP](https://img.shields.io/badge/-GSAP-000?style=flat&logo=greensock) ![Framer](https://img.shields.io/badge/-Framer-000?style=flat&logo=framer) |
+
+---
+
+### 📊 SYSTEM_ANALYTICS (MOST_USED_LANGUAGES)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF" width="400" />
+</p>
+
 ### 🧬 THE ARCHITECTURAL MANIFESTO
 > I engineer high-availability digital ecosystems where code is stripped of redundancy and built to survive complexity. Rooted in **Stoic Engineering**, my practice prioritizes low-latency state management and focus-driven interfaces.
 
