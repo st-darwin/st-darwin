@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ [ SYSTEM_CORE / ST_DARWIN ]
+# ⚡ [ SYSTEM_CORE / ST_DARWIN 👋 ]
 **FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT**
 
 *"Logic is the law. Discipline is the way. Never Stop Commiting.."*
@@ -10,10 +10,10 @@
 ### 🟢 INITIALIZING_SESSION...
 <table width="100%">
   <tr>
-    <td align="center"><b>STATUS</b><br/><code>ACTIVE_DEV</code></td>
+    <td align="center"><b>STATUS</b><br/><code>Active 🚀</code></td>
     <td align="center"><b>LOCATION</b><br/><code>NIGERIA</code></td>
     <td align="center"><b>FOCUS</b><br/><code>SCALABLE_SYSTEMS</code></td>
-    <td align="center"><b>PRONOUNS</b><br/><code>HE/HIM</code></td>
+    <td align="center"><b>PRONOUNS</b><br/><code>lol</code></td>
   </tr>
 </table>
 
