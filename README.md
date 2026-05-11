@@ -3,7 +3,7 @@
 # ⚡ [ SYSTEM_CORE / ST_DARWIN ]
 **FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT**
 
-*"Logic is the law. Discipline is the way."*
+*"Logic is the law. Discipline is the way. Never Stop Commiting.."*
 
 ---
 
