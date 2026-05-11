@@ -58,7 +58,7 @@
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/SYSTEM_03-Finance_Core-FF79C6?style=for-the-badge&logo=expo&logoColor=white&labelColor=000000" /><br/>
-      <code>[ STATUS: SCALING ]</code><br/>
+      <code>[ STATUS: ..... ]</code><br/>
       <sub>Cross-Platform Logic</sub>
     </td>
   </tr>
