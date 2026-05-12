@@ -36,7 +36,7 @@
 
 ### 🛠️ THE_ARSENAL (TECH_STACK) 🍃
 
-| CATEGORY | STACK |
+| CATEGORY |   MY STACK 🍃 |
 | :--- | :--- |
 | **FRONTEND** | ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3) ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwind-css) |
 | **BACKEND** | ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Appwrite](https://img.shields.io/badge/-Appwrite-000?style=flat&logo=appwrite) ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma) |
