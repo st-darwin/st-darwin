@@ -16,6 +16,7 @@
     <td align="center"><b>LOCATION</b><br/><code>Hostel</code></td>
     <td align="center"><b>FOCUS</b><br/><code>SCALABLE_SYSTEMS</code></td>
     <td align="center"><b>HMMM</b><br/><code>lol</code></td>
+     <td align="center"><b>Style</b><br/><code>Minimal 🍃</code></td>
   </tr>
 </table>
 
