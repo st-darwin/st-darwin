@@ -3,13 +3,13 @@
 <div align="center">
 
 # ⚡ [ SYSTEM_CORE / ST_DARWIN 🍃 ]
-**FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT • REACT & TYPESCRIPT SPECIALIST 🚀 **
+**FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT • REACT & TYPESCRIPT SPECIALIST 🚀**
 
 *"Logic is the law. Discipline is the way. Never Stop Commiting.."*
 
 ---
 
-### 🟢 INITIALIZING_SESSION...
+### 🍃 INITIALIZING_SESSION...
 <table width="100%">
   <tr>
     <td align="center"><b>STATUS</b><br/><code>Active 🚀</code></td>
