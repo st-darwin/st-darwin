@@ -5,7 +5,7 @@
 #  [ ..SYSTEM_CORE / ST_DARWIN 🍃 ]
 **FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT • REACT & TYPESCRIPT SPECIALIST 🚀**
 
-*"Logic is the law. Discipline is the way. Never Stop Commiting.."*
+*"Logic is the law. Discipline is the way. Never Stop Commiting..."*
 
 ---
 
