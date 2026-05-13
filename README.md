@@ -3,7 +3,7 @@
 <div align="center">
 
 #  [ ..SYSTEM_CORE / ST_DARWIN 🍃 ]
-**FULL-STACK ENGINEER • AI STRATEGIST • UI ARCHITECT • REACT & TYPESCRIPT SPECIALIST 🚀**
+**FULL-STACK ENGINEER 🧃 • AI STRATEGIST • UI ARCHITECT • REACT & TYPESCRIPT SPECIALIST 🚀**
 
 *"Logic is the law. Discipline is the way. Never Stop Commiting..."*
 
@@ -66,7 +66,7 @@
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/SYSTEM_01-NexaCV-00E5FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" /><br/>
       <code>[ STATUS: LIVE ]</code><br/>
-      <sub>Neural Resume Strategist</sub>
+      <sub>Neural Resume AI Strategist</sub>
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/SYSTEM_02-Nexa_Travel-3B82F6?style=for-the-badge&logo=appwrite&logoColor=white&labelColor=000000" /><br/>
