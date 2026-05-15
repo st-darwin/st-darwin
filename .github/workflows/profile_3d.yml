@@ -1,0 +1,23 @@
+name: Generate 3D Contribution Matrix
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every night at midnight
+  workflow_dispatch: # Allows you to trigger it manually right now
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: st-darwin
+      - name: Commit & Deploy 3D Asset
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A .
+          git commit -m "chore: dynamic update of 3D profile matrix skyline" || exit 0
+          git push
