@@ -9,6 +9,8 @@
 
 ---
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=st-darwin)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🍃 INITIALIZING_SESSION...
 <table width="100%">
   <tr>
