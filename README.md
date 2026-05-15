@@ -8,18 +8,26 @@
 ### 🛠️ STACK ARCHITECTURE
 
 <p align="left">
-  <img src="https://skinny-icons.vercel.app/api/icon?name=react&color=a6adc8&size=32" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=typescript&color=a6adc8&size=32" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=javascript&color=a6adc8&size=32" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=tailwindcss&color=a6adc8&size=32" alt="Tailwind CSS v4" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=html5&color=a6adc8&size=32" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=css3&color=a6adc8&size=32" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-ffffff?style=flat&logo=react&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat&logo=typescript&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=flat&logo=tailwindcss&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=a6adc8&color=1e1e2e" height="35" />
   <br><br>
-  <img src="https://skinny-icons.vercel.app/api/icon?name=node&color=a6adc8&size=32" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=appwrite&color=a6adc8&size=32" alt="Appwrite" title="Appwrite" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=git&color=a6adc8&size=32" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=github&color=a6adc8&size=32" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
-  <img src="https://skinny-icons.vercel.app/api/icon?name=greensock&color=a6adc8&size=32" alt="GSAP Animations" title="GSAP" />
+  <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=nodedotjs&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Appwrite-ffffff?style=flat&logo=appwrite&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GSAP-ffffff?style=flat&logo=greensock&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=git&logoColor=a6adc8&color=1e1e2e" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=a6adc8&color=1e1e2e" height="35" />
+</p>
+
+---
+
+### 🏆 RUNTIME MILESTONES
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=st-darwin&theme=catppuccin_mocha&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="milestones" />
 </p>
 
 ---
@@ -27,10 +35,10 @@
 ### 📊 ANALYTICS MATRIX
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=transparent&hide_border=true&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&langs_count=5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=transparent&hide_border=true&title_color=89b4fa&text_color=cdd6f4&icon_color=89b4fa&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="49%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=transparent&hide_border=true&sideChars=89b4fa&stroke=89b4fa&ring=89b4fa&fire=89b4fa&currStreakLabel=cdd6f4" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=catppuccin_mocha&hide_border=true" width="100%" />
 </p>
