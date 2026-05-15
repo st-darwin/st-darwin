@@ -21,6 +21,15 @@
 </table>
 
 ---
+### 🌐 NEURAL_INTERFACE_METRICS
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true&background=00000000&stroke=00E5FF&ring=00E5FF&fire=00E5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF&count_private=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=st-darwin&theme=tokyonight&bg_color=00000000&border_radius=5" width="97%" />
+</p>
 
 
 
