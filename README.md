@@ -12,6 +12,25 @@
 - **PRODUCTION** :: Full-Stack Optimization, Fluid Interfaces & AI Integrations
 
 ---
+### 🏅 SYSTEM VALIDATIONS
+
+<p align="left">
+  <a href="https://github.com/st-darwin">
+    <img src="https://github-badges.github.io/badges/badges/pull-shark.png" width="65" alt="Pull Shark" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/st-darwin">
+    <img src="https://github-badges.github.io/badges/badges/yolo.png" width="65" alt="YOLO" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/st-darwin">
+    <img src="https://github-badges.github.io/badges/badges/star.png" width="65" alt="Star" />
+  </a>
+</p>
+
+--- 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=st-darwin&label=ENGINE%20PULSES&color=89b4fa&style=flat-square" alt="st-darwin dashboard views" />
+</p>
+--
 
 ### 🛠 COGNITIVE STACK ARCHITECTURE
 
