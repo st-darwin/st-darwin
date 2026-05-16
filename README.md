@@ -20,6 +20,24 @@
 </p>
 --
 
+const activeEngines = {
+  nexaTravel: {
+    type: "SaaS Travel Dashboard",
+    stack: ["React", "Appwrite Cloud Ledger", "Syncfusion Maps"],
+    mechanics: ["Haversine Distance Vectors", "Vector Telemetry Tracking"]
+  },
+  nexaCV: {
+    type: "AI Resume Engineering Hub",
+    stack: ["React", "Tailwind v4", "Generative AI API"],
+    mechanics: ["Semantic Analysis", "Automated Resume Parsing"]
+  },
+  financePulse: {
+    type: "Mobile Ledger",
+    stack: ["React Native", "Expo", "Tailwind CSS"],
+    mechanics: ["Personal Budget & Stream Management"]
+  }
+};
+
 ### 🛠 COGNITIVE STACK ARCHITECTURE
 
 <p align="left">
