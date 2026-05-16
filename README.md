@@ -1,4 +1,4 @@
-# 🍃 ST-DARWIN // A FULLSTACK DEVELOPER 🚀
+# 🍃 ST-DARWIN // ENGINE
 
 <p align="left">
   <img src="https://img.shields.io/badge/CORE-ELITE-89b4fa?style=for-the-badge&logoColor=11111b" height="28" />
@@ -6,20 +6,22 @@
   <img src="https://img.shields.io/badge/MINDSET-STOIC-313244?style=for-the-badge&logoColor=cdd6f4" height="28" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=st-darwin&label=ENGINE%20PULSES&color=89b4fa&style=flat-square" alt="st-darwin dashboard views" />
+</p>
+
 - **MINDSET** :: Stoic // Locked In 🎯
 - **PRONOUNS** :: Lol 🍃
 - **ENVIRONMENT** :: VS Code // Gemini 🍃 // Spotify // Windows 11 Pro
 - **PRODUCTION** :: Full-Stack Optimization, Fluid Interfaces & AI Integrations
 
----
+```text
+ST-DARWIN_ENGINE // ACTIVE RUNTIME INITIALIZED...
+▶ TRANSLATING COMPLEX APPLICATIVE INTENT INTO PREMIUM SAAS ARCHITECTURES
+▶ COMPILING FLUID MOTION MATRIX (VITE + TAILWIND v4 + GSAP)
+▶ STATUS: ULTRA FOCUS ENGAGED // INDOOR CODESPACE LOCKED IN 🎯
 
-
---- 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=st-darwin&label=ENGINE%20PULSES&color=89b4fa&style=flat-square" alt="st-darwin dashboard views" />
-</p>
---
-
+```
 
 ### 🛠 COGNITIVE STACK ARCHITECTURE
 
