@@ -1,9 +1,15 @@
-# 🍃 ST-DARWIN // ENGINE
-- MINDSET :: Stoic // Locked In 🎯
-- ENVIRONMENT :: Windows 11 Pro // Cool Music 
-- PRODUCTION :: Full-Stack Optimization, Fluid Interfaces & AI Integrations
-- ![](https://img.shields.io/badge/CORE-ELITE-89b4fa?style=flat-square) ![](https://img.shields.io/badge/STATUS-LOCKED_IN-a6adc8?style=flat-square)
+# 🍃 ST-DARWIN // A FULLSTACK DEVELOPER 🚀
 
+<p align="left">
+  <img src="https://img.shields.io/badge/CORE-ELITE-89b4fa?style=for-the-badge&logoColor=11111b" height="28" />
+  <img src="https://img.shields.io/badge/STATUS-LOCKED_IN-a6adc8?style=for-the-badge&logoColor=11111b" height="28" />
+  <img src="https://img.shields.io/badge/MINDSET-STOIC-313244?style=for-the-badge&logoColor=cdd6f4" height="28" />
+</p>
+
+- **MINDSET** :: Stoic // Locked In 🎯
+- **PRONOUNS** :: Lol 🍃
+- **ENVIRONMENT** :: VS Code // Gemini 🍃 // Spotify // Windows 11 Pro
+- **PRODUCTION** :: Full-Stack Optimization, Fluid Interfaces & AI Integrations
 
 ---
 
