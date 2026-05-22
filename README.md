@@ -1,3 +1,8 @@
+
+
+<img width="1792" height="592" alt="Gemini_Generated_Image_460r6n460r6n460r" src="https://github.com/user-attachments/assets/45827835-c911-43ca-8991-24562d125bed" />
+
+
 # 🍃 ST-DARWIN //  A FULLSTACK DEVELOPER 🚀
 - MINDSET :: Stoic // Locked In 🎯
 - Pronouns :: Lol 🍃
