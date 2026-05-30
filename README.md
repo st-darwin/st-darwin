@@ -1,62 +1,94 @@
-<img width="1916" height="471" alt="Screenshot 2026-05-30 002745" src="https://github.com/user-attachments/assets/c4feb801-9cd1-4db1-aa74-3e03f59c012d" />
+<img width="100%" src="https://github.com/user-attachments/assets/c4feb801-9cd1-4db1-aa74-3e03f59c012d" />
 
+<div>
 
+# 🍃 ST-DARWIN
 
+### Full-Stack Developer • Building Modern Digital Products
 
+```bash
+STATUS     : ONLINE
+LOCATION   : Lagos, Nigeria
+FOCUS      : React • TypeScript • AI Applications
+EDITOR     : VS Code
+MINDSET    : Stay Locked In 🍃
+```
 
+</div>
 
 ---
-# 🍃 ST-DARWIN //  A SOFTWARE DEVELOPER_
-- MINDSET : Stay Locked In. 🍃
-- ENVIRONMENT : VS Code...Spotify Jam..
-- PRODUCTION : Full-Stack Optimization, Fluid Interfaces & AI Integrations
 
+## 👨‍💻 About
 
+Building modern web applications, AI-powered tools, and scalable digital products.
+
+Currently focused on:
+
+- ⚛️ React Ecosystem
+- 📘 TypeScript
+- 🚀 Full-Stack Development
+- 🤖 AI Integrations
+- ☁️ Cloud Deployment
 
 ---
 
-### 🛠 COGNITIVE STACK ARCHITECTURE
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-ffffff?style=flat&logo=react&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat&logo=typescript&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-ffffff?style=flat&logo=tailwindcss&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=a6adc8&color=1e1e2e" height="32" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=nodedotjs&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Appwrite-ffffff?style=flat&logo=appwrite&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GSAP_Animations-ffffff?style=flat&logo=greensock&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=git&logoColor=a6adc8&color=1e1e2e" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub_CLI-ffffff?style=flat&logo=github&logoColor=a6adc8&color=1e1e2e" height="32" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,mongodb,appwrite,firebase,supabase,git,github,vscode,docker" />
+
 </p>
 
 ---
 
-### 📊 DATA STREAM ANALYTICS
+# 🚀 Current project..
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=5" width="49%" />
-</p>
+## Nexa Travel
+An AI-driven travel planning dashboard designed to organize trip parameters, manage multi-passenger documentation data, and map location intelligence.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=catppuccin_mocha&hide_border=true" width="98.5%" />
+Core Engineering: Implements complex conditional state logic to toggle seamlessly between distinct transportation itineraries, such as aviation data blocks and ground transit components.
+
+Architecture: Leverages Appwrite for serverless data persistence, handling multi-tenant database collections, and managing secure document storage rules.
+
+Stack: React • TypeScript • Tailwind CSS • Appwrite.
+
+---
+
+
+
+# 📈 Contribution Activity
+
+<p >
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=st-darwin&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
 
-### 📈 GRAPHICAL CONTRIBUTION ACTIVITY
+<div >
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=st-darwin&theme=catppuccin&hide_border=true&area=true" width="98.5%" />
-</p>
+### 📫 Connect
+
+<a href="https://github.com/st-darwin">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<br><br>
+
+```txt
+WhatsApp: +2349114742360
+```
 
 ---
 
-### 🏆 RUNTIME MILESTONES (SYSTEM TROPHIES)
+### 🍃 STAY LOCKED IN BRO..
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=st-darwin&theme=catppuccin_mocha&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="milestones" />
-</p>
+Turning ideas into scalable digital products.
+
+</div>
