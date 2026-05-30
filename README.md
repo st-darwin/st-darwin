@@ -6,11 +6,10 @@
 
 
 ---
-# 🍃 ST-DARWIN //  A FULLSTACK DEVELOPER 🚀
-- MINDSET :: Stoic // Locked In 🎯
-- Pronouns :: Lol 🍃
-- ENVIRONMENT :: VS Code // Gemini 🍃 // Spotify
-- PRODUCTION :: Full-Stack Optimization, Fluid Interfaces & AI Integrations
+# 🍃 ST-DARWIN //  A SOFTWARE DEVELOPER 🚀
+- MINDSET : Stay Locked In. 🍃
+- ENVIRONMENT : VS Code...Spotify Jam..
+- PRODUCTION : Full-Stack Optimization, Fluid Interfaces & AI Integrations
 
 
 
