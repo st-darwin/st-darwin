@@ -68,7 +68,7 @@ Stack: React • TypeScript • Tailwind CSS • Appwrite.
 ---
 
 
-## 📊 GitHub Stats
+## 📊 My Github stats...hehe_
 
 <p align="center">
 
