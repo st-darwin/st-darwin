@@ -6,7 +6,7 @@
 
 
 ---
-# 🍃 ST-DARWIN //  A SOFTWARE DEVELOPER 🚀
+# 🍃 ST-DARWIN //  A SOFTWARE DEVELOPER_
 - MINDSET : Stay Locked In. 🍃
 - ENVIRONMENT : VS Code...Spotify Jam..
 - PRODUCTION : Full-Stack Optimization, Fluid Interfaces & AI Integrations
