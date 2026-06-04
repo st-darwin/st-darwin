@@ -76,7 +76,7 @@ Stack: React • TypeScript • Tailwind CSS • Appwrite.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> 
 
 <p align="center">
 
