@@ -70,9 +70,9 @@ Stack: React • TypeScript • Tailwind CSS • Appwrite.
 
 ## 📊 My Github stats...hehe_
 
-<p align="center">
+<p >
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=st-darwin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true"/>
 
