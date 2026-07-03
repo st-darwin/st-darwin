@@ -7,11 +7,11 @@ _<img width="100%" src="https://github.com/user-attachments/assets/c4feb801-9cd1
 ### Full-Stack Developer 🚀 • AI Developer 🍃 • Building Modern & Crazy CRUD apps and AI-based systems
 
 ```bash
-STATUS     : ONLINE
+STATUS     : ONLINE & GRINDING
 LOCATION   : Lagos, Nigeria
 FOCUS      : React • TypeScript • AI Applications
 EDITOR     : VS Code
-MINDSET    : Stay Locked In 🍃
+MINDSET    : Flow state🍃
 ```
 
 </div>
@@ -108,7 +108,7 @@ WhatsApp: +2349114742360
 
 ### 🍃 STAY LOCKED IN BRO..
 
-Turning ideas into scalable digital products.
+-- Building a pathway beyond the future 🍃
 
 </div>
 _
