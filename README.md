@@ -1,10 +1,10 @@
-<img width="100%" src="https://github.com/user-attachments/assets/c4feb801-9cd1-4db1-aa74-3e03f59c012d" />
+_<img width="100%" src="https://github.com/user-attachments/assets/c4feb801-9cd1-4db1-aa74-3e03f59c012d" />
 
 <div>
  
 # 🍃 ST-DARWIN
 
-### Full-Stack Developer • Building Modern Digital Products
+### Full-Stack Developer 🚀 • AI Developer 🍃 • Building Modern & Crazy CRUD apps and AI-based systems
 
 ```bash
 STATUS     : ONLINE
@@ -111,3 +111,4 @@ WhatsApp: +2349114742360
 Turning ideas into scalable digital products.
 
 </div>
+_
