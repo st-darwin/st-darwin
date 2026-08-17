@@ -18,7 +18,7 @@ MINDSET    : Flow state🍃
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About..
 
 Building modern web applications, AI-powered tools, and scalable digital products.
 
