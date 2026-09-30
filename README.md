@@ -1,16 +1,20 @@
-🍃 ST-DARWIN
+Darwin 💤
 
-Full-Stack Developer · AI Developer
+Just a React developer 🥀
 
-«Building modern web applications, AI-powered products, and useful digital experiences.»
+Building modern web applications, AI-powered products, and useful digital experiences.
+
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Online-22c55e?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-React%20%26%20TypeScript-3178C6?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-6366F1?style=flat-square" />
-</p>---
+</p>
 
-⚡ About
+---
+
+About_
 
 Currently building → Web apps & AI-powered systems
 Learning           → Backend & scalable architectures
@@ -19,15 +23,17 @@ Mindset            → Flow state 🍃
 
 ---
 
-🛠️ Tech Stack
+Stack_
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,mongodb,appwrite,firebase,supabase,git,github,vscode,docker" />
-</p>---
+</p>
 
-🚀 Currently Building
+---
 
-✈️ lectCore
+Current Project_
+
+LectCore 💤
 
 A school LMS made for easing the stress of school activities
 
@@ -35,7 +41,7 @@ Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
 
 ---
 
-📊 GitHub Activity
+Activity_
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=st-darwin&theme=tokyo-night&hide_border=true&area=true" />
@@ -46,9 +52,10 @@ Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
 
 ---
 
-🌐 Connect
+Connect_
 
 <p align="left">
+  
   <a href="https://github.com/st-darwin">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
@@ -56,6 +63,7 @@ Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
   <a href="mailto:your-email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
+  
 </p>WhatsApp: (https://wa.me/2349114742360)
 
 ---
