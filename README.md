@@ -44,10 +44,8 @@ Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
 Activity_
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=st-darwin&theme=tokyo-night&hide_border=true&area=true" />
-</p><p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
