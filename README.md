@@ -1,114 +1,65 @@
-_<img width="100%" src="https://github.com/user-attachments/assets/c4feb801-9cd1-4db1-aa74-3e03f59c012d" />
+🍃 ST-DARWIN
 
-<div>
- 
-# 🍃 ST-DARWIN 
+Full-Stack Developer · AI Developer
 
-### Full-Stack Developer 🚀 • AI Developer 🍃 • Building Modern & Crazy CRUD apps and AI-based systems
+«Building modern web applications, AI-powered products, and useful digital experiences.»
 
-```bash
-STATUS     : ONLINE & GRINDING
-LOCATION   : Lagos, Nigeria
-FOCUS      : React • TypeScript • AI Applications
-EDITOR     : VS Code
-MINDSET    : Flow state🍃
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Online-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20TypeScript-3178C6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-6366F1?style=flat-square" />
+</p>---
 
-</div>
+⚡ About
 
----
-
-## 👨‍💻 About..
-
-Building modern web applications, AI-powered tools, and scalable digital products.
-
-Currently focused on:
-
-- ⚛️ React Ecosystem
-- 📘 TypeScript
-- 🚀 Full-Stack Development
-- 🤖 AI Integrations
-- ☁️ Cloud Deployment
+Currently building → Web apps & AI-powered systems
+Learning           → Backend & scalable architectures
+Environment        → VS Code
+Mindset            → Flow state 🍃
 
 ---
 
-## 🛠 Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,mongodb,appwrite,firebase,supabase,git,github,vscode,docker" />
+</p>---
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,mongodb,appwrite,firebase,supabase,git,github,vscode,docker" />
+🚀 Currently Building
 
-</p>
+✈️ Nexa Travel
 
----
+An AI-powered travel platform for planning and booking trips.
 
-# 🚀 Current project..
-
-## Nexa Travel
-An AI-driven travel planning dashboard designed to organize trip parameters, manage multi-passenger documentation data, and map location intelligence.
-
-Core Engineering: Implements complex conditional state logic to toggle seamlessly between distinct transportation itineraries, such as aviation data blocks and ground transit components.
-
-Architecture: Leverages Appwrite for serverless data persistence, handling multi-tenant database collections, and managing secure document storage rules.
-
-Stack: React • TypeScript • Tailwind CSS • Appwrite.
+Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
 
 ---
 
-
-
-# 📈 Contribution Activity
-
-<p >
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=st-darwin&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-
-## 📊 My Github stats
-
-<p >
-
-
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p> 
+📊 GitHub Activity
 
 <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=st-darwin&theme=tokyo-night&hide_border=true&area=true" />
+</p><p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true" />
+</p>---
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true"/>
+🌐 Connect
+
+<p align="left">
+  <a href="https://github.com/st-darwin">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>WhatsApp: "+234 911 474 2360" (https://wa.me/2349114742360)
+
+---
+
+<p align="center">🍃 STAY LOCKED IN
+
+Building beyond the future.
 
 </p>
-
----
-
-<div >
-
-### 📫 Connect
-
-<a href="https://github.com/st-darwin">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<br><br>
-
-```txt
-WhatsApp: +2349114742360
-```
-
----
-
-### 🍃 STAY LOCKED IN BRO..
-
--- Building a pathway beyond the future 🍃
-
-</div>
-_
