@@ -27,9 +27,9 @@ Mindset            → Flow state 🍃
 
 🚀 Currently Building
 
-✈️ Nexa Travel
+✈️ lectCore
 
-An AI-powered travel platform for planning and booking trips.
+A school LMS made for easing the stress of school activities
 
 Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
 
@@ -42,7 +42,9 @@ Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
 </p><p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-darwin&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=st-darwin&theme=tokyonight&hide_border=true" />
-</p>---
+</p>
+
+---
 
 🌐 Connect
 
@@ -54,12 +56,6 @@ Stack: "React" · "TypeScript" · "Tailwind CSS" · "Appwrite"
   <a href="mailto:your-email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
-</p>WhatsApp: "+234 911 474 2360" (https://wa.me/2349114742360)
+</p>WhatsApp: (https://wa.me/2349114742360)
 
 ---
-
-<p align="center">🍃 STAY LOCKED IN
-
-Building beyond the future.
-
-</p>
