@@ -16,10 +16,10 @@ Building modern web applications, AI-powered products, and useful digital experi
 
 About_
 
-Currently building → Web apps & AI-powered systems
-Learning           → Backend & scalable architectures
-Environment        → VS Code
-Mindset            → Flow state 🍃
+<p>Currently building → Web apps & AI-powered systems </p>
+<p>Learning           → Backend & scalable architectures</p>
+<p>Environment        → VS Code</p>
+<p>Mindset            → Flow state</p>
 
 ---
 
