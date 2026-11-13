@@ -26,7 +26,7 @@ About_
 Stack_
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,mongodb,appwrite,firebase,supabase,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,mongodb,firebase,supabase,git,github,vscode,docker" />
 </p>
 
 ---
